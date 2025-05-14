@@ -23,3 +23,4 @@ VARIABLE LABELS
   age 'Respondent Age'.
 
 FREQUENCIES VARIABLES=gender education.
+SAVE OUTFILE='sample.sav'
